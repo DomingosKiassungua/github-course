@@ -1,10 +1,9 @@
 # Git Course
-desfazendo e testando
 
 
 Este é um repositório teste para aprender a usar repositorio.
 
-Saiba mas link.
+Saiba mas link www.google.com 
 
 Gostou do curso?
 
